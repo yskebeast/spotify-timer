@@ -1,0 +1,11 @@
+{
+  "name": "spotify-timer",
+  "version": "1.0.0",
+  "main": "app.mts",
+  "scripts": {
+    "dev": "node ./backend/app.mts"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
